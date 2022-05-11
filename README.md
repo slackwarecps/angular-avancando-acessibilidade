@@ -11,3 +11,10 @@ Depois de descompactar o projeto, dentro de sua pasta, não esqueça de executar
 Como definiruma API minimalista
 TemplateRef e seu papel
 Injeção de TemplateRef através de variável de template
+
+#
+
+Como minimizar dependências de um Componente
+A diretiva \*ngTemplateOutlet
+ComponentFactoryResolver para criar fábricas de Componentes
+O papel de ApplicationRef e HotView de um ComponentRef
