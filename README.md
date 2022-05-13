@@ -30,3 +30,9 @@ Como reutilizar animações
 Modal e regras da WCAG
 Criação de uma diretiva de FocusTrap
 Criação de uma diretiva de FocusBack
+
+#
+
+O suporte a screen readers
+Anunciando estado inválido de componentes de entrada
+Diferenças entre screen readers
